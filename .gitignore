@@ -14,7 +14,6 @@ dist/
 build/
 *.egg-info/
 *.egg
-data/
 models/
 
 # Virtual environment
